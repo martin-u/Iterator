@@ -1,0 +1,7 @@
+D:\Desktop\Iterator_DSI_CU108\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\Desktop\Iterator_DSI_CU108\Negocio\bin\Debug\Negocio.dll
+D:\Desktop\Iterator_DSI_CU108\Negocio\bin\Debug\Negocio.pdb
+D:\Desktop\Iterator_DSI_CU108\Negocio\bin\Debug\Entidades.dll
+D:\Desktop\Iterator_DSI_CU108\Negocio\bin\Debug\Entidades.pdb
+D:\Desktop\Iterator_DSI_CU108\Negocio\obj\Debug\Negocio.dll
+D:\Desktop\Iterator_DSI_CU108\Negocio\obj\Debug\Negocio.pdb

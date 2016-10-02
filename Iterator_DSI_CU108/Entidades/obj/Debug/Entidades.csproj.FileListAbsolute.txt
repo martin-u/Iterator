@@ -1,0 +1,5 @@
+D:\Desktop\Iterator_DSI_CU108\Entidades\bin\Debug\Entidades.dll
+D:\Desktop\Iterator_DSI_CU108\Entidades\bin\Debug\Entidades.pdb
+D:\Desktop\Iterator_DSI_CU108\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Desktop\Iterator_DSI_CU108\Entidades\obj\Debug\Entidades.dll
+D:\Desktop\Iterator_DSI_CU108\Entidades\obj\Debug\Entidades.pdb

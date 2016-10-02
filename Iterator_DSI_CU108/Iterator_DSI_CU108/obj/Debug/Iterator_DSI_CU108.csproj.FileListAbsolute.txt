@@ -1,0 +1,25 @@
+C:\Users\Martin\AppData\Local\Temporary Projects\Iterator_DSI_CU108\bin\Debug\Iterator_DSI_CU108.exe.config
+C:\Users\Martin\AppData\Local\Temporary Projects\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.csprojResolveAssemblyReference.cache
+C:\Users\Martin\AppData\Local\Temporary Projects\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.Formulario_datos.resources
+C:\Users\Martin\AppData\Local\Temporary Projects\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.Principal.resources
+C:\Users\Martin\AppData\Local\Temporary Projects\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.Properties.Resources.resources
+C:\Users\Martin\AppData\Local\Temporary Projects\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.csproj.GenerateResource.Cache
+C:\Users\Martin\AppData\Local\Temporary Projects\Iterator_DSI_CU108\bin\Debug\Iterator_DSI_CU108.exe
+C:\Users\Martin\AppData\Local\Temporary Projects\Iterator_DSI_CU108\bin\Debug\Iterator_DSI_CU108.pdb
+C:\Users\Martin\AppData\Local\Temporary Projects\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.exe
+C:\Users\Martin\AppData\Local\Temporary Projects\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.pdb
+D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Iterator_DSI_CU108.exe.config
+D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.exe
+D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.pdb
+D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.csprojResolveAssemblyReference.cache
+D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.Formulario_datos.resources
+D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.Principal.resources
+D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.Formularios.Resultado.resources
+D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.Properties.Resources.resources
+D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.csproj.GenerateResource.Cache
+D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Iterator_DSI_CU108.exe
+D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Iterator_DSI_CU108.pdb
+D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Entidades.dll
+D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Negocio.dll
+D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Entidades.pdb
+D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Negocio.pdb
