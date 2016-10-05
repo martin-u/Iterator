@@ -13,14 +13,16 @@ namespace Entidades
         public string resumenes { get; set; }
         public string titulo { get; set; }
         public int edicionSimposio { get; set; }
+        public int edicionCongreso { get; set; }
 
-        public TrabajoDeInvestigacion(int nro, string pal, string res, string tit, int edicion)
+        public TrabajoDeInvestigacion(int nro, string pal, string res, string tit, int ediSimp, int ediCon)
         {
             nroOrden = nro;
             palabraClave = pal;
             resumenes = res;
             titulo = tit;
-            edicionSimposio = edicion;
+            edicionSimposio = ediSimp;
+            edicionCongreso = ediCon;
         }
     }
 }

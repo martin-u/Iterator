@@ -23,3 +23,17 @@ D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Entidades.dll
 D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Negocio.dll
 D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Entidades.pdb
 D:\Desktop\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Negocio.pdb
+C:\Users\Martin\Documents\GitHub\Iterator\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Iterator_DSI_CU108.exe.config
+C:\Users\Martin\Documents\GitHub\Iterator\Iterator_DSI_CU108\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.exe
+C:\Users\Martin\Documents\GitHub\Iterator\Iterator_DSI_CU108\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.pdb
+C:\Users\Martin\Documents\GitHub\Iterator\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Iterator_DSI_CU108.exe
+C:\Users\Martin\Documents\GitHub\Iterator\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Iterator_DSI_CU108.pdb
+C:\Users\Martin\Documents\GitHub\Iterator\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Entidades.dll
+C:\Users\Martin\Documents\GitHub\Iterator\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Negocio.dll
+C:\Users\Martin\Documents\GitHub\Iterator\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Entidades.pdb
+C:\Users\Martin\Documents\GitHub\Iterator\Iterator_DSI_CU108\Iterator_DSI_CU108\bin\Debug\Negocio.pdb
+C:\Users\Martin\Documents\GitHub\Iterator\Iterator_DSI_CU108\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\Iterator\Iterator_DSI_CU108\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.Formulario_datos.resources
+C:\Users\Martin\Documents\GitHub\Iterator\Iterator_DSI_CU108\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.Principal.resources
+C:\Users\Martin\Documents\GitHub\Iterator\Iterator_DSI_CU108\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.Properties.Resources.resources
+C:\Users\Martin\Documents\GitHub\Iterator\Iterator_DSI_CU108\Iterator_DSI_CU108\obj\Debug\Iterator_DSI_CU108.csproj.GenerateResource.Cache

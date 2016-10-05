@@ -21,22 +21,15 @@ namespace Entidades
         //trabajo de investigacion
         //simposio
 
-        public EdicionSimposio(int nroCon, int nroESim, DateTime inicio, DateTime fin)
+        public EdicionSimposio(string nombre,string area, int nroCon, int nroESim, DateTime inicio, DateTime fin)
         {
+            nombreSimposio = nombre;
+            areaInvestigacion = area;
             nroEdicionCongreso = nroCon;
             nroEdicionSimposio = nroESim;
             fechaFin = fin;
             fechaInicio = inicio;
         }
-
-        public Simposio conocerSimposio()
-        {
-            Simposio simp = new Simposio();
-            nombreSimposio = simp.nombre;
-            areaInvestigacion = simp.concerAreaInvestigacion();
-
-            return simp;
-            
-        }
+        
     }
 }
