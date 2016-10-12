@@ -7,7 +7,7 @@
     <ProjectGuid>{750F950A-A1B2-49C7-90FC-2EAF9887913F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Negocio</RootNamespace>
+    <RootNamespace>Entidades</RootNamespace>
     <AssemblyName>Negocio</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

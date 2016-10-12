@@ -21,6 +21,10 @@ namespace Entidades
         //trabajo de investigacion
         //simposio
 
+        public EdicionSimposio()
+        { 
+        }
+
         public EdicionSimposio(string nombre,string area, int nroCon, int nroESim, DateTime inicio, DateTime fin)
         {
             nombreSimposio = nombre;
@@ -30,6 +34,14 @@ namespace Entidades
             fechaFin = fin;
             fechaInicio = inicio;
         }
+
+        // metodo para crear el iterador
+        public static IteratorTrabajoInvestigacion crearIterador()
+        {
+            IteratorTrabajoInvestigacion iter = new IteratorTrabajoInvestigacion();
+            return iter;
+        }
+
         
     }
 }

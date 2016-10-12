@@ -36,5 +36,24 @@ namespace Negocio
             }
             return listaFiltrada;
         }
+
+        public List<TrabajoDeInvestigacion> ListarTrabajosInvestigacion()
+        {
+            List<TrabajoDeInvestigacion> lista = new List<TrabajoDeInvestigacion>();            
+            lista = TrabajoDeInvestigacionNeg.obtenerTodos();
+            //creo el iterador
+            IteratorTrabajoInvestigacion iter = new IteratorTrabajoInvestigacion();
+            // seteo el elemento actual en 1
+            iter.primero();
+            // creo el loop
+            while (iter.haTerminado(lista) == false)
+            {                
+                iter.obtenerActual();
+                iter.aplicarFiltros(lista);
+                iter.siguiente();
+            }
+            return listaFiltrada;
+        }
+ 
     }
 }

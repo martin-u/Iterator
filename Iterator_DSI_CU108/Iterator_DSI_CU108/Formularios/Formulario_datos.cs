@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using Negocio;
 
 
+
 namespace Iterator_DSI_CU108
 {
     public partial class Formulario_datos : Form

@@ -14,8 +14,9 @@ namespace Entidades
         public string titulo { get; set; }
         public int edicionSimposio { get; set; }
         public int edicionCongreso { get; set; }
+        public string estado { get; set; }
 
-        public TrabajoDeInvestigacion(int nro, string pal, string res, string tit, int ediSimp, int ediCon)
+        public TrabajoDeInvestigacion(int nro, string pal, string res, string tit, int ediSimp, int ediCon, string est)
         {
             nroOrden = nro;
             palabraClave = pal;
@@ -23,6 +24,7 @@ namespace Entidades
             titulo = tit;
             edicionSimposio = ediSimp;
             edicionCongreso = ediCon;
+            estado = est;
         }
     }
 }

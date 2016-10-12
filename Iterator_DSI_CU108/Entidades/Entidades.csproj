@@ -41,6 +41,8 @@
   <ItemGroup>
     <Compile Include="EdicionCongreso.cs" />
     <Compile Include="EdicionSimposio.cs" />
+    <Compile Include="Iterador.cs" />
+    <Compile Include="IteratorTrabajoInvestigacion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TrabajoDeInvestigacion.cs" />
   </ItemGroup>
